@@ -4,8 +4,9 @@ My name is Atef Hesham and, I'm an experienced software engineer with hands-on e
 
 ### Contact
 
-* Mail: [its.atfhshm@gmail.com](mailto:its.atfhshm@gmail.com)
-* LinkedIn: [linkedin.com/in/atfhshm](https://www.linkedin.com/in/atfhshm)
+[![Gmail][Gmail]](mailto:its.atfhshm@gmail.com)
+[![LinkedIn][LinkedIn]](https://www.linkedin.com/in/atfhshm)
+[![X][X]](https://x.com/atfhshm)
 
 ### Programing Languages
 
@@ -52,3 +53,7 @@ My name is Atef Hesham and, I'm an experienced software engineer with hands-on e
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 [FastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 [NodeJs]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[X]: https://img.shields.io/badge/X-000?style=for-the-badge&logo=x
