@@ -8,16 +8,17 @@ My name is Atef Hesham and, I'm an experienced software engineer with hands-on e
 [![LinkedIn][LinkedIn]](https://www.linkedin.com/in/atfhshm)
 [![X][X]](https://x.com/atfhshm)
 
-### Programing Languages
+### Programming Languages
 
 ![Python][Python]
-![Go][Go]
 ![Js][Js]
 ![TypeScript][TypeScript]
+![Go][Go]
 
 ### Frontend
 
 ![React][React]
+![Next][Next]
 ![Tailwind][Tailwind]
 
 ### Backend
@@ -48,6 +49,8 @@ My name is Atef Hesham and, I'm an experienced software engineer with hands-on e
 [Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white
 
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Next]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Svelte]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
