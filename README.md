@@ -38,9 +38,7 @@ My name is Atef Hesham and, I'm an experienced software engineer with hands-on e
 
 ### GitHub Stats
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=atfhshm&show_icons=true&theme=radical)
-
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=atfhshm&hide_progress=true&theme=radical)
+[![Atef's GitHub stats](https://github-readme-stats.vercel.app/api?username=atfhshm)](https://github.com/anuraghazra/github-readme-stats)
 
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Go]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
@@ -59,3 +57,4 @@ My name is Atef Hesham and, I'm an experienced software engineer with hands-on e
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [X]: https://img.shields.io/badge/X-000?style=for-the-badge&logo=x
+
